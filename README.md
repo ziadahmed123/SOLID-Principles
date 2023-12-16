@@ -22,19 +22,18 @@ A class should have one and only one reason to change, meaning that a class shou
 ![BSR](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/888d6576-8b66-4a15-bbb0-93c8a7fd1e15)
 
 
-![BSR1](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/81526a2a-f2b3-48c9-b323-53cec8f5abc5)
 
 in that example we put the method which print all student info in the same class and we need to do that
 lets see how SRP solve that :
 
 ### After Apply SRP :
 
-![SR](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/f8297d9f-58bc-4411-9635-47097c7a5268)
 
 ![SR1](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/8601518e-7d85-4d94-a225-acce1359fbcd)
 
 
-![SR2](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/6610d9c8-0c20-4ce7-b10a-9abc4e6a3071)
+
+![SR](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/f8297d9f-58bc-4411-9635-47097c7a5268)
 
 
 After SRP we make the print student in anather class 
