@@ -56,7 +56,6 @@ When we use this principle We should be able to add new functionality without to
 ![oc 5](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/361e4716-4127-4585-9aba-e968732837a2)
 
 
-![oc 6](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/bd830761-55ea-480d-859f-7d93da31d69a)
 
 so what if we have an update to add area of rectangle , we will update all the shape class .
 is that good ?!.
