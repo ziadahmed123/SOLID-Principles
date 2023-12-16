@@ -15,6 +15,8 @@ We have 5 principles
 ## Single Responsibility Principle (SRP)
 In this principle class should be having one and only one responsibility .in other words ,
 A class should have one and only one reason to change, meaning that a class should have only one job.
+! [before SRP] (![BSR1](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/08466b3a-88b1-4f2d-bab4-4d27d5aa1429)
+)
 
 
 
