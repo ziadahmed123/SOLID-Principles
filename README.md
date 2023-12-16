@@ -62,7 +62,7 @@ sure it is not , open/closed principle help us to avoid that problem
 if we have an update we will make extension from the class and add the update.
 
 
-### After Aplly Open /Closed :
+### After Apply Open /Closed :
 
 ![OC1](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/4e42d40c-287a-43ad-bc47-079fd809bfef)
 
