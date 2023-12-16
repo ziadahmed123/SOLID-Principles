@@ -37,4 +37,8 @@ lets see how SRP solve that :
 ![SR2](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/6610d9c8-0c20-4ce7-b10a-9abc4e6a3071)
 
 
+After SRP we make the print student in anather class 
+that will help us when we any class need modification we will modify it alone and dont need to modify the other class 
+
+
 
