@@ -77,7 +77,4 @@ if we have an update we will make extension from the class and add the update.
 
 
 
-![oc4](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/1f4e85d3-ccea-499b-9934-1ed0ef0acebf)
 
-
-![oc 5](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/8b95f6bd-a2f5-4c0f-9129-490a1c531713)
