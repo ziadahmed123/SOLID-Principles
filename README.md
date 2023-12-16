@@ -18,8 +18,11 @@ A class should have one and only one reason to change, meaning that a class shou
 
 ### For example :
 ### Before SRP
- (![BSR1](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/08466b3a-88b1-4f2d-bab4-4d27d5aa1429)
 
+![BSR](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/888d6576-8b66-4a15-bbb0-93c8a7fd1e15)
+
+
+![BSR1](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/81526a2a-f2b3-48c9-b323-53cec8f5abc5)
 
 
 
