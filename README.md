@@ -74,5 +74,8 @@ if we have an update we will make extension from the class and add the update.
 ![oc3](https://github.com/ziadahmed123/SOLID-principles/assets/85025911/fb8e8e52-8b4d-485a-9fa0-aa4f5c4667e7)
 
 
+Now we can handle any updates added to our programme easily .
+
+
 
 
