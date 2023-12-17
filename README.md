@@ -21,27 +21,28 @@ A class should have one and only one reason to change, meaning that a class shou
 
 
 
-## 2- Open / Closed Principle
+## 2- Open / Closed Principle (OCP)
 It means that classes are open for extension and closed for modification.
 When we use this principle We should be able to add new functionality without touching the existing code for the class. This is because whenever we modify the existing code, we are taking the risk of creating potential bugs. So we should avoid touching the tested and reliable (mostly) production code if possible.
 
 
 
 
-## 3- Liskov Substitution Principle
+## 3- Liskov Substitution Principle (LSP)
 This principle means that every subclass or derived class should be substitutable for their base or parent class. in other words it means that  if class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program.
 
 
 
 
-## 4- Interface Segregation Principle
+## 4- Interface Segregation Principle (ISP)
 it simply means that larger interfaces should be split into smaller ones. By doing so, we can ensure that implementing classes only need to be concerned about the methods that are of interest to them.
 
 
 
 
 
-## 5- Dependency Inversion Principle
+## 5- Dependency Inversion Principle (DIP)
+The Dependency Inversion principle states that our classes should depend upon interfaces or abstract classes instead of concrete classes and functions.
 
 
 
