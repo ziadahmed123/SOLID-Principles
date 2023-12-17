@@ -36,7 +36,6 @@ This principle means that every subclass or derived class should be substitutabl
 
 ## 4- Interface Segregation Principle (ISP)
 it simply means that larger interfaces should be split into smaller ones. By doing so, we can ensure that implementing classes only need to be concerned about the methods that are of interest to them.
-Abstractions shouldn't depend on details . Details should depend on apstractions
 
 
 
@@ -44,7 +43,7 @@ Abstractions shouldn't depend on details . Details should depend on apstractions
 
 ## 5- Dependency Inversion Principle (DIP)
 The Dependency Inversion principle states that our classes should depend upon interfaces or abstract classes instead of concrete classes and functions.
-
+Abstractions shouldn't depend on details . Details should depend on apstractions
 
 
 
