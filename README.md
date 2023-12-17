@@ -28,6 +28,24 @@ When we use this principle We should be able to add new functionality without to
 
 
 
+## 3- Liskov Substitution Principle
+This principle means that every subclass or derived class should be substitutable for their base or parent class. in other words it means that  if class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program.
+
+
+
+
+## 4- Interface Segregation
+
+
+
+
+
+
+## 5- Dependency Inversion
+
+
+
+
 
 
 
